@@ -1,0 +1,56 @@
+header{
+    background-color: #2A368B;
+    color: azure;
+    font-family:'American captain';
+    text-align: left;
+    margin: auto;
+    font-size: xx-large;
+    
+}
+body{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-shadow: 5px;
+    background-color: #2A368B ;
+    font-size: x-large;
+    background-image: url('LOGO2.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:820px;
+    background-position-x: center;
+    background-position-y: top;
+    background-blend-mode: overlay;
+    color: #ffffff;
+}
+    
+
+.register{
+    background-color: #333;
+    opacity: 0.8;
+    color: white;
+    text-align: center;
+    
+    margin: auto;
+    font-size: x-large;
+    border: 5px #333 solid;
+    border-radius: 15px;
+    max-width: 25%;
+    
+    
+
+}
+.name{
+    font-family: 'Poppins', sans-serif;
+}
+
+footer{
+    background-color: #333;
+    opacity: 0.8;
+    color: azure;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    
+}
+img{
+    opacity: 0.8;
+}
